@@ -2,7 +2,7 @@
 	"format_version": "1.20.60",
 	"minecraft:block": {
 	  "description": {
-		"identifier": "bap:calcite_slab",
+		"identifier": "bap:terracotta_slab_red",
 		"menu_category": {
 		  "category": "construction",
 		  "group": "itemGroup.name.slab"
@@ -43,7 +43,7 @@
 	  ],
 	  "components": {
 		"minecraft:destructible_by_mining": {
-		  "seconds_to_destroy": 0.4
+		  "seconds_to_destroy": 0.5
 		},
 		"minecraft:destructible_by_explosion": false,
 		"minecraft:geometry": {
@@ -55,7 +55,7 @@
 		},
 		"minecraft:material_instances": {
 		  "*": {
-			"texture": "calcite_slab"
+			"texture": "terracotta_slab_red"
 		  }
 		}
 	  }

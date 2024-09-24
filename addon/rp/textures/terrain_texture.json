@@ -153,6 +153,57 @@
 		},
 		"concrete_slab_yellow": {
 			"textures": "textures/blocks/concrete/yellow.png"
+		},
+		"terracotta_slab": {
+			"textures": "textures/blocks/terracotta/plain.png"
+		},
+		"terracotta_slab_black": {
+			"textures": "textures/blocks/terracotta/black.png"
+		},
+		"terracotta_slab_blue": {
+			"textures": "textures/blocks/terracotta/blue.png"
+		},
+		"terracotta_slab_brown": {
+			"textures": "textures/blocks/terracotta/brown.png"
+		},
+		"terracotta_slab_cyan": {
+			"textures": "textures/blocks/terracotta/cyan.png"
+		},
+		"terracotta_slab_gray": {
+			"textures": "textures/blocks/terracotta/gray.png"
+		},
+		"terracotta_slab_green": {
+			"textures": "textures/blocks/terracotta/green.png"
+		},
+		"terracotta_slab_light_blue": {
+			"textures": "textures/blocks/terracotta/light_blue.png"
+		},
+		"terracotta_slab_light_gray": {
+			"textures": "textures/blocks/terracotta/light_gray.png"
+		},
+		"terracotta_slab_lime": {
+			"textures": "textures/blocks/terracotta/lime.png"
+		},
+		"terracotta_slab_magenta": {
+			"textures": "textures/blocks/terracotta/magenta.png"
+		},
+		"terracotta_slab_orange": {
+			"textures": "textures/blocks/terracotta/orange.png"
+		},
+		"terracotta_slab_pink": {
+			"textures": "textures/blocks/terracotta/pink.png"
+		},
+		"terracotta_slab_purple": {
+			"textures": "textures/blocks/terracotta/purple.png"
+		},
+		"terracotta_slab_red": {
+			"textures": "textures/blocks/terracotta/red.png"
+		},
+		"terracotta_slab_white": {
+			"textures": "textures/blocks/terracotta/white.png"
+		},
+		"terracotta_slab_yellow": {
+			"textures": "textures/blocks/terracotta/yellow.png"
 		}
 	}
 }
