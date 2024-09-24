@@ -1,7 +1,6 @@
 # BAP: Blocks - Pending Additions
 
 # Slabs: 
-- Grass 
 - Nether Stems (x4: x2 variants, stem and stripped stem)
 - Frog Lights (x3) (light=15)
 - Sea Lantern (light=15)
@@ -13,6 +12,7 @@
 # Vertical Slabs:
 - Smooth Stone (texture?)
 - Plank(s) (x9: include nether stems)
+- Terracotta (x17)
 
 # Brick Blocks: 
 - Calcite Brick

@@ -25,6 +25,9 @@
 		"vertical_gravel_slab": {
 			"textures": "textures/blocks/misc/gravel.png"
 		},
+		"gravel_slab": {
+			"textures": "textures/blocks/misc/gravel.png"
+		},
 		"vertical_granite_slab": {
 			"textures": "textures/blocks/misc/granite.png"
 		},
@@ -114,6 +117,9 @@
 		},
 		"dirt_slab": {
 			"textures": "textures/blocks/natural/dirt.png"
+		},
+		"grass_slab": {
+			"textures": "textures/blocks/natural/grass.png"
 		},
 		"dirt_coarse_slab": {
 			"textures": "textures/blocks/natural/dirt_coarse.png"

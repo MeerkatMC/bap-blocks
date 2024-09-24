@@ -1,5 +1,11 @@
 # BAP: Blocks - Change History
 
+# v1.0.7:
+Update Includes:
+- Aligned block braking speed to 0.2 (from: 1, 0.5 or 0,4) to match better vanilla block breaking speeds
+- Added missed Gravel and Grass slabs
+- Added vertical concrete slabs (x16)
+
 # v1.0.6:
 Update Includes:
 - Fixed incorrect name for Andesite in block names

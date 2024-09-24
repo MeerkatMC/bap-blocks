@@ -2,13 +2,13 @@
 	"format_version": 2,
 	"header": {
 		"name": "Bycrest Addon Pack: Blocks RP",
-		"description": "Bycrest Addon Pack: Blocks (v1.0.6)",
-		"uuid": "5b5b925d-ab11-4985-852e-760a49554340",
-		"version": [1, 0, 6],
+		"description": "Bycrest Addon Pack: Blocks (v1.0.7)",
+		"uuid": "3f93ce55-4c08-4773-9b5d-ded6274782d1",
+		"version": [1, 0, 7],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
-		"authors": ["Meerkat, Brood591, MeIsJohn, ScoreChing"],
+		"authors": ["Meerkat"],
 		"generated_with": {
 			"blockbench_block_wizard": ["1.2.2"]
 		}
@@ -17,8 +17,8 @@
 		{
 			"description": "Bycrest Addon Pack: Blocks RP",
 			"type": "resources",
-			"uuid": "954c2b94-da40-4142-baa1-986fed678136",
-			"version": [1, 0, 6]
+			"uuid": "4d5c562a-5f01-410c-99f0-aad02a36943d",
+			"version": [1, 0, 7]
 		}
 	]
 }

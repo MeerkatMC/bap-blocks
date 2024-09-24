@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:gravel_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:gravel" }
+        ],
+        "result": [
+            { "item": "bap:gravel_slab", "count": 2 }
+        ]
+	}
+}
