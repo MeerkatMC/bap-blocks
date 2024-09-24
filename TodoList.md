@@ -11,7 +11,7 @@
 - Glazzed Terracota (x17) (like floor tiles)
 
 # Vertical Slabs:
-- Smooth Stone
+- Smooth Stone (texture?)
 - Plank(s) (x9: include nether stems)
 
 # Brick Blocks: 

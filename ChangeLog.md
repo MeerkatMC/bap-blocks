@@ -1,5 +1,18 @@
 # BAP: Blocks - Change History
 
+# v1.0.6:
+Update Includes:
+- Fixed incorrect name for Andesite in block names
+- Remove stray "55" in Terracota Yellow Slab block name
+- Renamed the "wooded" type "slabs" to "Half Log" to clarify on placement model (pillar vs slab)
+- Split Basalt and Polished Baslt to "slab" and "vertical slab" vs using "pillar" place model (like "half logs")
+- Added vertical polished basalt block
+- Aligned display names to same pattern for block variants
+
+Backed Changes:
+- Added sub directories to help organise the blocks
+- Added consistent naming to files (and between folders)
+
 # v1.0.5:
 Update Includes:
 - Fixed orientation of the crafting counter in the hotbar.

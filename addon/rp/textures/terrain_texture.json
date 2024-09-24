@@ -319,11 +319,17 @@
 		"terracotta_slab_yellow": {
 			"textures": "textures/blocks/terracotta/yellow.png"
 		},
-		"basalt_slab": {
-			"textures": "textures/blocks/nether/basalt.png"
+		"basalt_slab_top": {
+			"textures": "textures/blocks/nether/basalt_top.png"
 		},
-		"basalt_polished_slab": {
-			"textures": "textures/blocks/nether/basalt_polished.png"
+		"basalt_slab_side": {
+			"textures": "textures/blocks/nether/basalt_side.png"
+		},
+		"basalt_polished_slab_top": {
+			"textures": "textures/blocks/nether/basalt_polished_top.png"
+		},
+		"basalt_polished_slab_side": {
+			"textures": "textures/blocks/nether/basalt_polished_side.png"
 		},
 		"basalt_smooth_slab": {
 			"textures": "textures/blocks/nether/basalt_smooth.png"
