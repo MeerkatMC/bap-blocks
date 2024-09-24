@@ -1,0 +1,9 @@
+{
+    "format_version": "1.17",
+    "minecraft:recipe_furnace": {
+        "description": { "identifier": "bap:furnace_calcite" },
+        "tags": [ "furnace" ],
+        "input": "minecraft:calcite",
+        "output": "bap:smooth_calcite"
+    }
+}

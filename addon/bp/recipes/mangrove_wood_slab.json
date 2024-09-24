@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:mangrove_wood_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:mangrove_wood" }
+        ],
+        "result": [
+            { "item": "bap:mangrove_wood_slab", "count": 2 }
+        ]
+	}
+}

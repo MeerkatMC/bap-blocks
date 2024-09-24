@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:mangrove_stripped_log_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stripped_mangrove_log" }
+        ],
+        "result": [
+            { "item": "bap:mangrove_stripped_log_slab", "count": 2 }
+        ]
+	}
+}

@@ -1,0 +1,158 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"smooth_calcite": {
+			"textures": "textures/blocks/smooth_calcite.png"
+		},
+		"calcite_slab": {
+			"textures": "textures/blocks/calcite_slab.png"
+		},
+		"acacia_log_slab": {
+			"textures": "textures/blocks/logs/acacia.png"
+		},
+		"birch_log_slab": {
+			"textures": "textures/blocks/logs/birch.png"
+		},
+		"cherry_log_slab": {
+			"textures": "textures/blocks/logs/cherry.png"
+		},
+		"darkoak_log_slab": {
+			"textures": "textures/blocks/logs/dark_oak.png"
+		},
+		"jungle_log_slab": {
+			"textures": "textures/blocks/logs/jungle.png"
+		},
+		"mangrove_log_slab": {
+			"textures": "textures/blocks/logs/mangrove.png"
+		},
+		"oak_log_slab": {
+			"textures": "textures/blocks/logs/oak.png"
+		},
+		"spruce_log_slab": {
+			"textures": "textures/blocks/logs/spruce.png"
+		},
+		"acacia_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/acacia.png"
+		},
+		"birch_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/birch.png"
+		},
+		"cherry_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/cherry.png"
+		},
+		"darkoak_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/dark_oak.png"
+		},
+		"jungle_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/jungle.png"
+		},
+		"mangrove_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/mangrove.png"
+		},
+		"oak_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/oak.png"
+		},
+		"spruce_stripped_log_slab": {
+			"textures": "textures/blocks/stripped_logs/spruce.png"
+		},
+		"acacia_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/acacia.png"
+		},
+		"birch_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/birch.png"
+		},
+		"cherry_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/cherry.png"
+		},
+		"darkoak_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/dark_oak.png"
+		},
+		"jungle_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/jungle.png"
+		},
+		"mangrove_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/mangrove.png"
+		},
+		"oak_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/oak.png"
+		},
+		"spruce_stripped_wood_slab": {
+			"textures": "textures/blocks/stripped_wood/spruce.png"
+		},
+		"acacia_wood_slab": {
+			"textures": "textures/blocks/wood/acacia.png"
+		},
+		"birch_wood_slab": {
+			"textures": "textures/blocks/wood/birch.png"
+		},
+		"cherry_wood_slab": {
+			"textures": "textures/blocks/wood/cherry.png"
+		},
+		"darkoak_wood_slab": {
+			"textures": "textures/blocks/wood/dark_oak.png"
+		},
+		"jungle_wood_slab": {
+			"textures": "textures/blocks/wood/jungle.png"
+		},
+		"mangrove_wood_slab": {
+			"textures": "textures/blocks/wood/mangrove.png"
+		},
+		"oak_wood_slab": {
+			"textures": "textures/blocks/wood/oak.png"
+		},
+		"spruce_wood_slab": {
+			"textures": "textures/blocks/wood/spruce.png"
+		},
+		"concrete_slab_black": {
+			"textures": "textures/blocks/concrete/black.png"
+		},
+		"concrete_slab_blue": {
+			"textures": "textures/blocks/concrete/blue.png"
+		},
+		"concrete_slab_brown": {
+			"textures": "textures/blocks/concrete/brown.png"
+		},
+		"concrete_slab_cyan": {
+			"textures": "textures/blocks/concrete/cyan.png"
+		},
+		"concrete_slab_gray": {
+			"textures": "textures/blocks/concrete/gray.png"
+		},
+		"concrete_slab_green": {
+			"textures": "textures/blocks/concrete/green.png"
+		},
+		"concrete_slab_light_blue": {
+			"textures": "textures/blocks/concrete/light_blue.png"
+		},
+		"concrete_slab_light_gray": {
+			"textures": "textures/blocks/concrete/light_gray.png"
+		},
+		"concrete_slab_lime": {
+			"textures": "textures/blocks/concrete/lime.png"
+		},
+		"concrete_slab_magenta": {
+			"textures": "textures/blocks/concrete/magenta.png"
+		},
+		"concrete_slab_orange": {
+			"textures": "textures/blocks/concrete/orange.png"
+		},
+		"concrete_slab_pink": {
+			"textures": "textures/blocks/concrete/pink.png"
+		},
+		"concrete_slab_purple": {
+			"textures": "textures/blocks/concrete/purple.png"
+		},
+		"concrete_slab_red": {
+			"textures": "textures/blocks/concrete/red.png"
+		},
+		"concrete_slab_white": {
+			"textures": "textures/blocks/concrete/white.png"
+		},
+		"concrete_slab_yellow": {
+			"textures": "textures/blocks/concrete/yellow.png"
+		}
+	}
+}

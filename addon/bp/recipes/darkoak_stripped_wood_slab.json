@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:darkoak_stripped_wood_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stripped_dark_oak_wood" }
+        ],
+        "result": [
+            { "item": "bap:darkoak_stripped_wood_slab", "count": 2 }
+        ]
+	}
+}

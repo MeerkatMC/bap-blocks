@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:calcite_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:calcite" }
+        ],
+        "result": [
+            { "item": "bap:calcite_slab", "count": 2 }
+        ]
+	}
+}

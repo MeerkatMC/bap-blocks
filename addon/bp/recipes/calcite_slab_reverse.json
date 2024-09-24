@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:calcite_slab_to_block" },
+        "tags": [ "crafting_table" ],
+        "ingredients": [
+            { "item": "bap:calcite_slab", "count": 2 }
+        ],
+        "result": [
+            { "item": "minecraft:calcite" }
+        ]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:spruce_log_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:spruce_log" }
+        ],
+        "result": [
+            { "item": "bap:spruce_log_slab", "count": 2 }
+        ]
+	}
+}
