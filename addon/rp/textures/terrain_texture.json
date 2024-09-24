@@ -4,6 +4,9 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"crafting_counter": {
+			"textures": "textures/blocks/crafting_counter.png"
+		},
 		"smooth_calcite": {
 			"textures": "textures/blocks/smooth_calcite.png"
 		},

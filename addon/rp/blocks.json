@@ -2,6 +2,8 @@
 	"smooth_calcite": { "sound": "calcite" },
 	"calcite_slab": { "sound": "calcite" },
 
+	"crafting_counter": { "sound": "wood" },
+
 	"spruce_log_slab": { "sound": "wood" },
 	"darkoak_log_slab": { "sound": "wood" },
 	"oak_log_slab": { "sound": "wood" },
