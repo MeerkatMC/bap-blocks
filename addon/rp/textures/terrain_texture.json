@@ -4,14 +4,59 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"vertical_brick_slab": {
+			"textures": "textures/blocks/misc/brick.png"
+		},
+		"vertical_calcite_slab": {
+			"textures": "textures/blocks/misc/calcite.png"
+		},
+		"vertical_stone_slab": {
+			"textures": "textures/blocks/misc/stone.png"
+		},
+		"vertical_stone_brick_slab": {
+			"textures": "textures/blocks/misc/stone_brick.png"
+		},
+		"vertical_gravel_slab": {
+			"textures": "textures/blocks/misc/gravel.png"
+		},
+		"vertical_granite_slab": {
+			"textures": "textures/blocks/misc/granite.png"
+		},
+		"vertical_diorite_slab": {
+			"textures": "textures/blocks/misc/diorite.png"
+		},
+		"vertical_cobblestone_slab": {
+			"textures": "textures/blocks/misc/cobblestone.png"
+		},
 		"crafting_counter": {
-			"textures": "textures/blocks/crafting_counter.png"
+			"textures": "textures/blocks/misc/crafting_counter.png"
 		},
 		"smooth_calcite": {
-			"textures": "textures/blocks/smooth_calcite.png"
+			"textures": "textures/blocks/misc/smooth_calcite.png"
 		},
 		"calcite_slab": {
-			"textures": "textures/blocks/calcite_slab.png"
+			"textures": "textures/blocks/misc/calcite.png"
+		},
+		"dripstone_slab": {
+			"textures": "textures/blocks/misc/dripstone.png"
+		},
+		"moss_slab":{
+			"textures": "textures/blocks/natural/moss.png"
+		},
+		"mud_slab":{
+			"textures": "textures/blocks/natural/mud.png"
+		},
+		"packed_mud_slab":{
+			"textures": "textures/blocks/natural/packed_mud.png"
+		},
+		"podzol_slab": {
+			"textures": "textures/blocks/natural/podzol.png"
+		},
+		"dirt_slab": {
+			"textures": "textures/blocks/natural/dirt.png"
+		},
+		"rooted_dirt_slab": {
+			"textures": "textures/blocks/natural/rooted_dirt.png"
 		},
 		"acacia_log_slab": {
 			"textures": "textures/blocks/logs/acacia.png"

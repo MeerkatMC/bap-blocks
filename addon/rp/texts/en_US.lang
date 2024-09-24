@@ -1,5 +1,12 @@
 tile.bap:crafting_counter.name=Crafting Counter
 tile.bap:calcite_slab.name=Calcite Slab
+tile.bap:dirt_slab.name=Dirt Slab
+tile.bap:rooted_dirt_slab.name=Rooted Dirt Slab
+tile.bap:podzol_slab.name=Podzol Slab
+tile.bap:moss_slab.name=Moss Slab
+tile.bap:mud_slab.name=Mud Slab
+tile.bap:packed_mud_slab.name=Packed Mud Slab
+tile.bap:dripstone_slab.name=Dripstone Slab
 tile.bap:smooth_calcite.name=Smooth Calcite
 tile.bap:smooth_calcite_slab.name=Smooth Calcite Slab
 tile.bap:acacia_log_slab.name=Acacia Log Slab
@@ -66,4 +73,13 @@ tile.bap:terracotta_slab_pink.name=Terracotta Slab Pink
 tile.bap:terracotta_slab_purple.name=Terracotta Slab Purple
 tile.bap:terracotta_slab_red.name=Terracotta Slab Red
 tile.bap:terracotta_slab_white.name=Terracotta Slab White
-tile.bap:terracotta_slab_yellow.name=Terracotta Slab Yellow
+tile.bap:terracotta_slab_yellow.name=Terracotta Slab Yellow55
+
+tile.bap:vertical_brick_slab.name=Vertical Brick Slab
+tile.bap:vertical_calcite_slab.name=Vertical Calcite Slab
+tile.bap:vertical_stone_slab.name=Vertical Stone Slab
+tile.bap:vertical_stone_brick_slab.name=Vertical Stone Brick Slab
+tile.bap:vertical_gravel_slab.name=Vertical Gravel Slab
+tile.bap:vertical_granite_slab.name=Vertical Granite Slab
+tile.bap:vertical_diorite_slab.name=Vertical Diorite Slab
+tile.bap:vertical_cobblestone_slab.name=Vertical Cobblestone Slab

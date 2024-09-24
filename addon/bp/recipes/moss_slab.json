@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:moss_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:moss_block" }
+        ],
+        "result": [
+            { "item": "bap:moss_slab", "count": 2 }
+        ]
+	}
+}

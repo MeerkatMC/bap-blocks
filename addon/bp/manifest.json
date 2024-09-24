@@ -2,13 +2,13 @@
 	"format_version": 2,
 	"header": {
 		"name": "Bycrest Addon Pack: Blocks BP",
-		"description": "Bycrest Addon Pack: Blocks (Behavior Pack)",
-		"uuid": "a2e3b0af-c4df-44aa-82f2-a36365db9105",
-		"version": [1, 0, 2],
+		"description": "Bycrest Addon Pack: Blocks (v1.0.3)",
+		"uuid": "39de4834-bc48-4c07-827f-698359846457",
+		"version": [1, 0, 3],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
-		"authors": ["Meerkat"],
+		"authors": ["Meerkat, Brood591, MeIsJohn, ScoreChing"],
 		"generated_with": {
 			"blockbench_block_wizard": ["1.2.2"]
 		}
@@ -16,15 +16,15 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 0, 2],
-			"uuid": "6ea2f3b9-ccc9-44fb-a088-310090539efc",
+			"version": [1, 0, 3],
+			"uuid": "7bf41897-f3fd-409e-9a0b-6465bf95730e",
 			"type": "data"
 		}
 	],
 	"dependencies": [
 		{
-			"uuid": "1aa4a0b7-8f25-4a50-95c2-1e741eac5011",
-			"version": [1, 0, 2]
+			"uuid": "c895d598-b6c6-478e-82c2-624da09dac26",
+			"version": [1, 0, 3]
 		}
 	]
 }

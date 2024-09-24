@@ -2,6 +2,24 @@
 	"smooth_calcite": { "sound": "calcite" },
 	"calcite_slab": { "sound": "calcite" },
 
+	"dirt_slab": { "sound": "dirt_with_roots" },
+	"rooted_dirt_slab": { "sound": "dirt_with_roots" },
+	"podzol_slab": { "sound": "dirt_with_roots" },
+
+	"dripstone_slab": { "sound": "dripstone_block" },
+	"mud_slab": { "sound": "mud" },
+	"packed_mud_slab": { "sound": "packed_mud" },
+	"moss_slab": { "sound": "moss_block" },
+
+	"vertical_brick_slab": { "sound": "stone" },
+	"vertical_calcite_slab": { "sound": "calcite" },
+	"vertical_stone_slab": { "sound": "stone" },
+	"vertical_stone_brick_slab": { "sound": "stone" },
+	"vertical_gravel_slab": { "sound": "stone" },
+	"vertical_granite_slab": { "sound": "stone" },
+	"vertical_diorite_slab": { "sound": "stone" },
+	"vertical_cobblestone_slab": { "sound": "stone" },
+
 	"crafting_counter": { "sound": "wood" },
 
 	"spruce_log_slab": { "sound": "wood" },
