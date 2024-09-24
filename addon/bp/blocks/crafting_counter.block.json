@@ -44,7 +44,7 @@
 				"condition": "q.block_state('minecraft:facing_direction') == 'north' ",
 				"components": {
 					"minecraft:transformation": {
-						"rotation": [0, 180, 0]
+						"rotation": [0, 0, 0]
 					}
 				}
 			},
@@ -52,7 +52,7 @@
 				"condition": "q.block_state('minecraft:facing_direction') == 'south' ",
 				"components": {
 					"minecraft:transformation": {
-						"rotation": [0, 0, 0]
+						"rotation": [0, 180, 0]
 					}
 				}
 			},
@@ -60,7 +60,7 @@
 				"condition": "q.block_state('minecraft:facing_direction') == 'east' ",
 				"components": {
 					"minecraft:transformation": {
-						"rotation": [0, 90, 0]
+						"rotation": [0, 270, 0]
 					}
 				}
 			},
@@ -68,7 +68,7 @@
 				"condition": "q.block_state('minecraft:facing_direction') == 'west' ",
 				"components": {
 					"minecraft:transformation": {
-						"rotation": [0, 270, 0]
+						"rotation": [0, 90, 0]
 					}
 				}
 			}

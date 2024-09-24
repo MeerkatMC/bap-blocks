@@ -1,10 +1,14 @@
 # BAP: Blocks - Change History
 
+# v1.0.5:
+Update Includes:
+- Fixed orientation of the crafting counter in the hotbar.
+
 # v1.0.4:
 Update Includes:
 - Updated various textures (replacing ones from programmers-art with reference examples)
 - Added New Veritical Slabs
-   - Andersite **
+   - Andersite (doesn't craft - none flatterned blocks.)
    - Polished Andersite
    - Polished Diorite
    - Polished Granite
@@ -20,10 +24,8 @@ Update Includes:
    - Deepslate Bricks
    - Tuff
    - Mossy Coblestone
-   - Mossy Stonebrick **
+   - Mossy Stonebrick (doesn't craft - none flatterned blocks.)
    - Smooth Calcite
-
-   ** doesn't craft - none flatterned blocks.
 
 - Added New Slabs
    - Sand
@@ -67,7 +69,7 @@ Update to add Crafting Counter
 
 # v1.0.1:
 Update to add Terracotta Slabs
-- Terracotta Slabs
+- Terracotta Slabs (x17)
 
 # v1.0.0:
 Initial release for testing

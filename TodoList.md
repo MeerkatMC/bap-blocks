@@ -1,19 +1,18 @@
 # BAP: Blocks - Pending Additions
 
 # Slabs: 
-- Glass(s) (x17)
-- Coral(s) (x8: 4x alive and 4x dead)
-- Glazzed Terracota (x17) (like floor tiles)
+- Grass 
+- Nether Stems (x4: x2 variants, stem and stripped stem)
 - Frog Lights (x3) (light=15)
 - Sea Lantern (light=15)
 - Shroom Light (light=15)
-- Nether Stems (x4: x2 variants, stem and stripped stem)
+- Coral(s) (x8: 4x alive and 4x dead)
+- Glass(s) (x17)
+- Glazzed Terracota (x17) (like floor tiles)
 
 # Vertical Slabs:
-- Plank(s) (x9: include nether stems)
 - Smooth Stone
-- FIX Andersite Vertical Slab Recipe
-- FIX Mossy Stone Brick Slab Recipe
+- Plank(s) (x9: include nether stems)
 
 # Brick Blocks: 
 - Calcite Brick
@@ -26,3 +25,7 @@
 - Basalt Brick
 - Sandstone Brick
 - Smooth Sandstone Brick
+
+# Snagging List:
+- FIX Andersite Vertical Slab Recipe
+- FIX Mossy Stone Brick Slab Recipe

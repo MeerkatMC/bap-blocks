@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "Bycrest Addon Pack: Blocks BP",
-		"description": "Bycrest Addon Pack: Blocks (v1.0.4)",
-		"uuid": "13df510c-8e2a-4182-a670-90df798b56e4",
-		"version": [1, 0, 4],
+		"description": "Bycrest Addon Pack: Blocks (v1.0.5)",
+		"uuid": "9f2459c5-33c2-42b8-8375-4fb673c6099c",
+		"version": [1, 0, 5],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -16,15 +16,15 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 0, 4],
-			"uuid": "ed929794-0e51-412f-9cd6-33789a411c72",
+			"version": [1, 0, 5],
+			"uuid": "b81910a9-e1e7-4d3f-bf06-f9cb87a7f3db",
 			"type": "data"
 		}
 	],
 	"dependencies": [
 		{
-			"uuid": "511536c8-5a0a-4a66-9177-f81d6f28fb63",
-			"version": [1, 0, 4]
+			"uuid": "9ab41022-bdd3-458c-834a-80435c6df46a",
+			"version": [1, 0, 5]
 		}
 	]
 }
