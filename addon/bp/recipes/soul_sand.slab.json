@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:soul_sand_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:soul_sand" }
+        ],
+        "result": [
+            { "item": "bap:soul_sand_slab", "count": 2 }
+        ]
+	}
+}

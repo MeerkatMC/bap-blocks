@@ -10,11 +10,17 @@
 		"vertical_calcite_slab": {
 			"textures": "textures/blocks/misc/calcite.png"
 		},
+		"vertical_calcite_smooth_slab": {
+			"textures": "textures/blocks/misc/smooth_calcite.png"
+		},
 		"vertical_stone_slab": {
 			"textures": "textures/blocks/misc/stone.png"
 		},
-		"vertical_stone_brick_slab": {
-			"textures": "textures/blocks/misc/stone_brick.png"
+		"vertical_stonebrick_slab": {
+			"textures": "textures/blocks/misc/stonebrick.png"
+		},
+		"vertical_stonebrick_mossy_slab": {
+			"textures": "textures/blocks/misc/stonebrick_mossy.png"
 		},
 		"vertical_gravel_slab": {
 			"textures": "textures/blocks/misc/gravel.png"
@@ -22,11 +28,65 @@
 		"vertical_granite_slab": {
 			"textures": "textures/blocks/misc/granite.png"
 		},
+		"vertical_granite_polished_slab": {
+			"textures": "textures/blocks/misc/granite_polished.png"
+		},
 		"vertical_diorite_slab": {
 			"textures": "textures/blocks/misc/diorite.png"
 		},
+		"vertical_diorite_polished_slab": {
+			"textures": "textures/blocks/misc/diorite_polished.png"
+		},
 		"vertical_cobblestone_slab": {
 			"textures": "textures/blocks/misc/cobblestone.png"
+		},
+		"vertical_cobblestone_mossy_slab": {
+			"textures": "textures/blocks/misc/cobblestone_mossy.png"
+		},		
+		"vertical_sand_slab": {
+			"textures": "textures/blocks/misc/sand.png"
+		},
+		"sand_slab": {
+			"textures": "textures/blocks/misc/sand.png"
+		},
+		"vertical_sandstone_slab": {
+			"textures": "textures/blocks/misc/sandstone.png"
+		},
+		"vertical_sandstone_smooth_slab": {
+			"textures": "textures/blocks/misc/sandstone_smooth.png"
+		},
+		"red_sand_slab": {
+			"textures": "textures/blocks/misc/red_sand.png"
+		},
+		"vertical_red_sand_slab": {
+			"textures": "textures/blocks/misc/red_sand.png"
+		},
+		"vertical_red_sandstone_slab": {
+			"textures": "textures/blocks/misc/red_sandstone.png"
+		},
+		"vertical_red_sandstone_smooth_slab": {
+			"textures": "textures/blocks/misc/red_sandstone_smooth.png"
+		},
+		"vertical_deepslate_cobbled_slab": {
+			"textures": "textures/blocks/misc/deepslate_cobbled.png"
+		},
+		"vertical_deepslate_polished_slab": {
+			"textures": "textures/blocks/misc/deepslate_polished.png"
+		},
+		"vertical_deepslate_brick_slab": {
+			"textures": "textures/blocks/misc/deepslate_bricks.png"
+		},
+		"vertical_deepslate_tiles_slab": {
+			"textures": "textures/blocks/misc/deepslate_tiles.png"
+		},
+		"vertical_tuff_slab": {
+			"textures": "textures/blocks/misc/tuff.png"
+		},
+		"vertical_andersite_slab": {
+			"textures": "textures/blocks/misc/andesite.png"
+		},
+		"vertical_andersite_polished_slab": {
+			"textures": "textures/blocks/misc/andesite_polished.png"
 		},
 		"crafting_counter": {
 			"textures": "textures/blocks/misc/crafting_counter.png"
@@ -55,8 +115,14 @@
 		"dirt_slab": {
 			"textures": "textures/blocks/natural/dirt.png"
 		},
+		"dirt_coarse_slab": {
+			"textures": "textures/blocks/natural/dirt_coarse.png"
+		},
 		"rooted_dirt_slab": {
-			"textures": "textures/blocks/natural/rooted_dirt.png"
+			"textures": "textures/blocks/natural/dirt_rooted.png"
+		},
+		"muddy_mangrove_roots_slab": {
+			"textures": "textures/blocks/natural/muddy_mangrove_roots.png"
 		},
 		"acacia_log_slab": {
 			"textures": "textures/blocks/logs/acacia.png"
@@ -252,6 +318,27 @@
 		},
 		"terracotta_slab_yellow": {
 			"textures": "textures/blocks/terracotta/yellow.png"
+		},
+		"basalt_slab": {
+			"textures": "textures/blocks/nether/basalt.png"
+		},
+		"basalt_polished_slab": {
+			"textures": "textures/blocks/nether/basalt_polished.png"
+		},
+		"basalt_smooth_slab": {
+			"textures": "textures/blocks/nether/basalt_smooth.png"
+		},
+		"soul_sand_slab": {
+			"textures": "textures/blocks/nether/soul_sand.png"
+		},
+		"soul_soil_slab": {
+			"textures": "textures/blocks/nether/soul_soil.png"
+		},
+		"glasswall": {
+			"textures": "textures/blocks/glass/glass.png"
+		},
+		"stone_pillar": {
+			"textures": "textures/blocks/pillars/stone_pillar.png"
 		}
 	}
 }

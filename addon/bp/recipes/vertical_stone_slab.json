@@ -4,7 +4,7 @@
         "description": { "identifier": "bap:vertical_stone_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
-            { "item": "minecraft:stone" }
+            { "item": "minecraft:stone", "data": 0 }
         ],
         "result": [
             { "item": "bap:vertical_stone_slab", "count": 2 }

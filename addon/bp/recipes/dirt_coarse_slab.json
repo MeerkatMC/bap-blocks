@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:dirt_coarse_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:dirt:1" }
+        ],
+        "result": [
+            { "item": "bap:dirt_coarse_slab", "count": 2 }
+        ]
+	}
+}

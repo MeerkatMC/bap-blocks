@@ -1,0 +1,13 @@
+{
+	"format_version": "1.19.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:vertical_stonebrick_mossy_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stonebrick", "data": 1 }
+        ],
+        "result": [
+            { "item": "bap:vertical_stonebrick_slab", "count": 2 }
+        ]
+	}
+}
