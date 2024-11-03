@@ -1,5 +1,5 @@
 {
-	"format_version": "1.20.60",
+	"format_version": "1.21.50",
 	"minecraft:block": {
 	  "description": {
 		"identifier": "bap:dirt_slab",
@@ -42,6 +42,16 @@
 		}
 	  ],
 	  "components": {
+		"minecraft:liquid_detection":
+		{
+			"detection_rules": [
+				{
+					"liquid_type": "water",
+					"on_liquid_touches": "blocking",
+					"can_contain_liquid": true
+				}
+			]
+		},
 		"minecraft:destructible_by_mining": {
 		  "seconds_to_destroy": 0.2
 		},
