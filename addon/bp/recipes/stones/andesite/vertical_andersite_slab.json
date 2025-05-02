@@ -6,6 +6,7 @@
         "ingredients": [
             { "item": "minecraft:stone", "data": 5 }
         ],
+        "unlock": { "context": "AlwaysUnlocked" },
         "result": [
             { "item": "bap:vertical_andersite_slab", "count": 2 }
         ]

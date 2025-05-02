@@ -13,6 +13,24 @@
 		  }
 		}
 	  },
+	  "components": {
+		"minecraft:destructible_by_mining": {
+		  "seconds_to_destroy": 0.2
+		},
+		"minecraft:destructible_by_explosion": false,
+		"minecraft:geometry": {
+		  "identifier": "geometry.custom_slab",
+		  "bone_visibility": {
+			"bottom_slab": "q.block_state('minecraft:vertical_half') == 'bottom'",
+			"top_slab": "q.block_state('minecraft:vertical_half') == 'top'"
+		  }
+		},
+		"minecraft:material_instances": {
+		  "*": {
+			"texture": "terracotta_slab_light_blue"
+		  }
+		}
+	  },
 	  "permutations": [
 		{
 		  "condition": "q.block_state('minecraft:vertical_half') == 'bottom'",
@@ -40,25 +58,7 @@
 			}
 		  }
 		}
-	  ],
-	  "components": {
-		"minecraft:destructible_by_mining": {
-		  "seconds_to_destroy": 0.2
-		},
-		"minecraft:destructible_by_explosion": false,
-		"minecraft:geometry": {
-		  "identifier": "geometry.custom_slab",
-		  "bone_visibility": {
-			"bottom_slab": "q.block_state('minecraft:vertical_half') == 'bottom'",
-			"top_slab": "q.block_state('minecraft:vertical_half') == 'top'"
-		  }
-		},
-		"minecraft:material_instances": {
-		  "*": {
-			"texture": "terracotta_slab_light_blue"
-		  }
-		}
-	  }
+	  ]
 	}
   }
   

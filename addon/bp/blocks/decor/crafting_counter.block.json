@@ -1,5 +1,5 @@
 {
-	"format_version": "1.20.20",
+	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
 			"identifier": "bap:crafting_counter",
@@ -15,13 +15,48 @@
 		"components": {
 			"minecraft:collision_box": true,
 			"minecraft:selection_box": true,
+			"minecraft:liquid_detection": {
+				"detection_rules": [
+					{ 
+						"can_contain_liquid": true,
+						"liquid_type": "water",
+						"on_liquid_touches": "blocking"
+					}
+				]
+			},
 			"minecraft:light_emission": 2,
 			"minecraft:crafting_table": {
 				"crafting_tags": [ "crafting_counter", "crafting_table" ],
 				"table_name": "Counter"
 		   },
 			"minecraft:destructible_by_mining": {
-				"seconds_to_destroy": 0.4
+				"seconds_to_destroy": 1.0,
+				"item_specific_speeds": [
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_axe', 'minecraft:wooden_tier')" },
+						"destroy_speed": 0.8
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_axe', 'minecraft:stone_tier')" },
+						"destroy_speed": 0.75
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_axe', 'minecraft:iron_tier')" },
+						"destroy_speed": 0.5
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_axe', 'minecraft:golden_tier')" },
+						"destroy_speed": 0.45
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_axe', 'minecraft:diamond_tier')" },
+						"destroy_speed": 0.38
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_axe', 'minecraft:netherite_tier')" },
+						"destroy_speed": 0.31
+					}
+				]	
 			},
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 15
@@ -42,35 +77,19 @@
 		"permutations": [
 			{
 				"condition": "q.block_state('minecraft:facing_direction') == 'north' ",
-				"components": {
-					"minecraft:transformation": {
-						"rotation": [0, 0, 0]
-					}
-				}
+				"components": { "minecraft:transformation": { "rotation": [0, 0, 0] } }
 			},
 			{
 				"condition": "q.block_state('minecraft:facing_direction') == 'south' ",
-				"components": {
-					"minecraft:transformation": {
-						"rotation": [0, 180, 0]
-					}
-				}
+				"components": { "minecraft:transformation": { "rotation": [0, 180, 0] } }
 			},
 			{
 				"condition": "q.block_state('minecraft:facing_direction') == 'east' ",
-				"components": {
-					"minecraft:transformation": {
-						"rotation": [0, 270, 0]
-					}
-				}
+				"components": { "minecraft:transformation": { "rotation": [0, 270, 0] } }
 			},
 			{
 				"condition": "q.block_state('minecraft:facing_direction') == 'west' ",
-				"components": {
-					"minecraft:transformation": {
-						"rotation": [0, 90, 0]
-					}
-				}
+				"components": { "minecraft:transformation": { "rotation": [0, 90, 0] } }
 			}
 		]
 	}

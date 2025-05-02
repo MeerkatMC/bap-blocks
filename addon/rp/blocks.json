@@ -1,4 +1,6 @@
 {
+	"format_version": "1.21.0",
+
 	"smooth_calcite": { "sound": "calcite" },
 
 	"calcite_slab": { "sound": "calcite" },

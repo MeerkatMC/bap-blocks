@@ -1,5 +1,13 @@
 # BAP: Blocks - Change History
 
+# v1.0.8:
+Update Includes:
+- Added pickaxe as preferred tool and set tier based mining speeds
+- Added waterlogging ability
+- Added consistent "0" light dampening for all slabs
+- Swapped from "alpha_blend" to "opaque" render_method to optimise the block rendering
+- Set map colours to something sensible
+
 # v1.0.7:
 Update Includes:
 - Aligned block braking speed to 0.2 (from: 1, 0.5 or 0,4) to match better vanilla block breaking speeds
