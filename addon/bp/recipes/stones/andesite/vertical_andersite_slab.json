@@ -4,10 +4,12 @@
         "description": { "identifier": "bap:vertical_andersite_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
-            { "item": "minecraft:stone", "data": 5 }
+            { "item": "minecraft:andesite" }
         ],
-        "result": [
-            { "item": "bap:vertical_andersite_slab", "count": 2 }
-        ]
+        "unlock": [
+            { "item": "minecraft:andesite" }
+        ],
+        "result": { "item": "bap:vertical_andersite_slab", "count": 2 },
+        "priority": 10
 	}
 }

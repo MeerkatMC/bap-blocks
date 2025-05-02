@@ -1,13 +1,15 @@
 {
-	"format_version": "1.19.10",
+	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
         "description": { "identifier": "bap:vertical_stonebrick_mossy_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
-            { "item": "minecraft:stonebrick", "data": 1 }
+            { "item": "minecraft:mossy_stone_bricks", "data": 1 }
         ],
-        "result": [
-            { "item": "bap:vertical_stonebrick_slab", "count": 2 }
-        ]
+        "unlock": [
+            { "item": "minecraft:mossy_stone_bricks" }
+        ],
+        "result": { "item": "bap:vertical_stonebrick_mossy_slab", "count": 2 },
+        "priority": 10
 	}
 }

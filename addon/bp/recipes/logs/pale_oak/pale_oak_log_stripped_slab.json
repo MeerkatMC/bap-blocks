@@ -1,0 +1,15 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:pale_oak_stripped_log_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stripped_pale_oak_log" }
+        ],
+        "unlock": [
+            { "item": "minecraft:stripped_pale_oak_log" }
+        ],
+        "result": { "item": "bap:pale_oak_stripped_log_slab", "count": 2 },
+        "priority": 10
+	}
+}

@@ -1,5 +1,5 @@
 {
-	"format_version": "1.19.10",
+	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
 		"description": {
 			"identifier": "bap:glasswall"
@@ -10,11 +10,10 @@
 				"item": "minecraft:glass"
 			}
 		],
-		"result": [
-			{
-				"item": "bap:glasswall",
-                "count": 2
-			}
-		]
+        "unlock": [
+            { "item": "minecraft:glass" }
+        ],
+		"result": { "item": "bap:glasswall", "count": 2  },
+        "priority": 10
 	}
 }

@@ -6,8 +6,10 @@
         "ingredients": [
             { "item": "minecraft:stripped_mangrove_wood" }
         ],
-        "result": [
-            { "item": "bap:mangrove_stripped_wood_slab", "count": 2 }
-        ]
+        "unlock": [
+            { "item": "minecraft:stripped_mangrove_wood" }
+        ],
+        "result": { "item": "bap:mangrove_stripped_wood_slab", "count": 2 },
+        "priority": 10
 	}
 }

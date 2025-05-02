@@ -1,0 +1,15 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "bap:pale_oak_wood_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:pale_oak_wood" }
+        ],
+        "unlock": [
+            { "item": "minecraft:pale_oak_wood" }
+        ],
+        "result": { "item": "bap:pale_oak_wood_slab", "count": 2 },
+        "priority": 10
+	}
+}

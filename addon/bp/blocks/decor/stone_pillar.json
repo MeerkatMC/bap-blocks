@@ -1,5 +1,5 @@
 {
-	"format_version": "1.20.20",
+	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
 			"identifier": "bap:stone_pillar",
@@ -16,16 +16,42 @@
 			"minecraft:collision_box": true,
 			"minecraft:selection_box": true,
 			"minecraft:destructible_by_mining": {
-				"seconds_to_destroy": 1
+				"seconds_to_destroy": 1.0,
+				"item_specific_speeds": [
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:wooden_tier')" },
+						"destroy_speed": 0.8
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:stone_tier')" },
+						"destroy_speed": 0.75
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:iron_tier')" },
+						"destroy_speed": 0.5
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:golden_tier')" },
+						"destroy_speed": 0.45
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:diamond_tier')" },
+						"destroy_speed": 0.38
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:netherite_tier')" },
+						"destroy_speed": 0.31
+					}
+				]	
 			},
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 2.5
 			},
-			"minecraft:geometry": "geometry.stone_pillar",
+			"minecraft:geometry": "geometry.mkt.stone_pillar",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "stone_pillar",
-					"render_method": "alpha_test"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:light_dampening": 5,
