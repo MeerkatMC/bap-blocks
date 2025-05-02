@@ -27,5 +27,4 @@
 - Smooth Sandstone Brick
 
 # Snagging List:
-- FIX Andersite Vertical Slab Recipe
-- FIX Mossy Stone Brick Slab Recipe
+- none
