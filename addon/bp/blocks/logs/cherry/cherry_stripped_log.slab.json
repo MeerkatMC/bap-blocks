@@ -4,7 +4,8 @@
 		"description": {
 			"identifier": "bap:cherry_stripped_log_slab",
 			"menu_category": {
-				"category": "construction"
+				"category": "construction",
+				"group": "minecraft:itemGroup.name.slab"
 			},
 			"traits": {
 				"minecraft:placement_direction": {
@@ -64,12 +65,20 @@
 				"destroy_chance_modifier": 20,
 				"catch_chance_modifier": 5
 			},
-			"minecraft:geometry": "geometry.log_slab",
+			"minecraft:geometry": "geometry.mkt.log_slab",
 			"minecraft:material_instances": {
-				"*": {
-					"texture": "cherry_stripped_log_slab",
-					"render_method": "opaque"
-				}
+                "up": {
+                    "texture": "cherry_stripped_log_slab_top",
+                    "render_method": "opaque"
+                },
+                "down": {
+                    "texture": "cherry_stripped_log_slab_top",
+                    "render_method": "opaque"
+                },
+                "*": {
+                    "texture": "cherry_stripped_log_slab",
+                    "render_method": "opaque"
+                }
 			},
 			"minecraft:light_dampening": 0,
 			"minecraft:map_color": "#5f4a2b"

@@ -47,7 +47,7 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 2.5
 			},
-			"minecraft:geometry": "geometry.stone_pillar",
+			"minecraft:geometry": "geometry.mkt.stone_pillar",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "stone_pillar",

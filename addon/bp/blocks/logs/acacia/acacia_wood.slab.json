@@ -4,7 +4,8 @@
 		"description": {
 			"identifier": "bap:acacia_wood_slab",
 			"menu_category": {
-				"category": "construction"
+				"category": "construction",
+				"group": "minecraft:itemGroup.name.slab"
 			},
 			"traits": {
 				"minecraft:placement_direction": {
@@ -64,10 +65,10 @@
 				"destroy_chance_modifier": 20,
 				"catch_chance_modifier": 5
 			},
-			"minecraft:geometry": "geometry.log_slab",
+			"minecraft:geometry": "geometry.mkt.log_slab",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "acacia_wood_slab",
+					"texture": "acacia_log_slab_side",
 					"render_method": "opaque"
 				}
 			},

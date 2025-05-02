@@ -56,7 +56,7 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 0
 			},
-			"minecraft:geometry": "geometry.glasswall",
+			"minecraft:geometry": "geometry.mkt.glasswall",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "glasswall",

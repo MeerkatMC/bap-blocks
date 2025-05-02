@@ -7,6 +7,10 @@ Update Includes:
 - Added consistent "0" light dampening for all slabs
 - Swapped from "alpha_blend" to "opaque" render_method to optimise the block rendering
 - Set map colours to something sensible
+- Added Pale Oak woodset "half log" slabs
+- Reverted to inbuilt textures (rather than local copies)
+-- When "material_instance" "tint_method" is released from "upcoming creator features" we can change "grass slab" over to "grass" tint method
+- Upgraded receipes to 1.20.10 and added unlocks based on ingredients
 
 # v1.0.7:
 Update Includes:

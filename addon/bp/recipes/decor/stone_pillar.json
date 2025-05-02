@@ -1,5 +1,5 @@
 {
-	"format_version": "1.19.10",
+	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
 		"description": {
 			"identifier": "bap:stone_pillar"
@@ -7,13 +7,13 @@
 		"tags": [ "stonecutter" ],
 		"ingredients": [
 			{
-				"item": "minecraft:stone"
+				"item": "minecraft:stone", "data": 0
 			}
 		],
-		"result": [
-			{
-				"item": "bap:stone_pillar"
-			}
-		]
+        "unlock": [
+            { "item": "minecraft:stone", "data": 0 }
+        ],
+		"result": { "item": "bap:stone_pillar" },
+        "priority": 10
 	}
 }

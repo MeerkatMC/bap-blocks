@@ -3,7 +3,7 @@
     "minecraft:recipe_furnace": {
         "description": { "identifier": "bap:furnace_calcite" },
         "tags": [ "furnace" ],
-        "unlock": [ { "item": "bap:smooth_calcite_slab" } ],
+        "unlock": [ { "item": "minecraft:calcite" } ],
         "input": "minecraft:calcite",
         "output": "bap:smooth_calcite"
     }
