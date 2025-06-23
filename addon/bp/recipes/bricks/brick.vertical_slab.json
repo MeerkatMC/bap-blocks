@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:vertical_brick_slab" },
+        "description": { "identifier": "mkt:vertical_brick_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:brick_block" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:brick_block" }
         ],
-        "result": { "item": "bap:vertical_brick_slab", "count": 2 },
+        "result": { "item": "mkt:vertical_brick_slab", "count": 2 },
         "priority": 10
 	}
 }

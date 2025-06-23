@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:podzol_slab",
+			"identifier": "mkt:podzol_slab",
 			"menu_category": {
 		  		"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"
@@ -63,7 +63,7 @@
 		  		}
 			},
 			"minecraft:material_instances": {
-		  		"*": { "texture": "podzol_slab", "render_method": "opaque" }
+		  		"*": { "texture": "podzol_slab", "render_method": "opaque", "isotropic": true }
 			}
 	  	},
 	  	"permutations": [

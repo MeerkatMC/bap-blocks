@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:jungle_log_slab" },
+        "description": { "identifier": "mkt:jungle_log_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:jungle_log" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:jungle_log" }
         ],
-        "result": { "item": "bap:jungle_log_slab", "count": 2 },
+        "result": { "item": "mkt:jungle_log_slab", "count": 2 },
         "priority": 10
 	}
 }

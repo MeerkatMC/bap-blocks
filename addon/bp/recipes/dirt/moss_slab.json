@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:moss_slab" },
+        "description": { "identifier": "mkt:moss_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:moss_block" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:moss_block" }
         ],
-        "result": { "item": "bap:moss_slab", "count": 2 },
+        "result": { "item": "mkt:moss_slab", "count": 2 },
         "priority": 10
 	}
 }

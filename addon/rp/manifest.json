@@ -1,10 +1,10 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Bycrest Addon Pack: Blocks RP",
-		"description": "Bycrest Addon Pack: Blocks (v1.0.8)",
-		"uuid": "e7676e1f-2e26-40d2-be4e-ce3711f118a8",
-		"version": [1, 0, 8],
+		"name": "More Slabs Addon Pack: Blocks RP",
+		"description": "More Slabs Addon Pack: Blocks (v1.1.0)",
+		"uuid": "451f09a4-80c9-418a-87a4-bcd8673c95b7",
+		"version": [1, 1, 0],
 		"min_engine_version": [1, 21, 70]
 	},
 	"metadata": {
@@ -12,10 +12,10 @@
 	},
 	"modules": [
 		{
-			"description": "Bycrest Addon Pack: Blocks RP",
+			"description": "More Slabs Addon Pack: Blocks RP",
 			"type": "resources",
-			"uuid": "2c9a865f-44fc-45a6-8bc5-63b3ecadbced",
-			"version": [1, 0, 8]
+			"uuid": "cd8bcee6-0212-4904-9cdd-a0c73323054d",
+			"version": [1, 1, 0]
 		}
 	]
 }

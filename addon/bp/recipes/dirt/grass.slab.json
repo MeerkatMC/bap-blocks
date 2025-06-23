@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:grass_slab" },
+        "description": { "identifier": "mkt:grass_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:grass_block" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:grass_block" }
         ],
-        "result": { "item": "bap:grass_slab", "count": 2 },
+        "result": { "item": "mkt:grass_slab", "count": 2 },
         "priority": 10
 	}
 }

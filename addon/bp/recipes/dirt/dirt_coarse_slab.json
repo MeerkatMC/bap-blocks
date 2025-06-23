@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:dirt_coarse_slab" },
+        "description": { "identifier": "mkt:dirt_coarse_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:coarse_dirt" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:coarse_dirt" }
         ],
-        "result": { "item": "bap:dirt_coarse_slab", "count": 2 },
+        "result": { "item": "mkt:dirt_coarse_slab", "count": 2 },
         "priority": 10
 	}
 }

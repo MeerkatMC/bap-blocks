@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:concrete_slab_magenta" },
+        "description": { "identifier": "mkt:concrete_slab_magenta" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:magenta_concrete" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:magenta_concrete" }
         ],
-        "result": { "item": "bap:concrete_slab_magenta", "count": 2 },
+        "result": { "item": "mkt:concrete_slab_magenta", "count": 2 },
         "priority": 10
 	}
 }

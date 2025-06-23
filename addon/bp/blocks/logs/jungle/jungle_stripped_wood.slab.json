@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:jungle_stripped_wood_slab",
+			"identifier": "mkt:jungle_stripped_wood_slab",
 			"menu_category": {
 				"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"

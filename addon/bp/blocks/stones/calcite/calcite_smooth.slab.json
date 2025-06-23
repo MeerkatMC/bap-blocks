@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 	  	"description": {
-			"identifier": "bap:smooth_calcite_slab",
+			"identifier": "mkt:smooth_calcite_slab",
 			"menu_category": {
 		  		"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"
@@ -63,7 +63,7 @@
 		  		}
 			},
 			"minecraft:material_instances": {
-		  		"*": { "texture": "smooth_calcite", "render_method": "opaque" }
+		  		"*": { "texture": "smooth_calcite", "render_method": "opaque", "isotropic": false }
 			}
 	  	},
 	  	"permutations": [

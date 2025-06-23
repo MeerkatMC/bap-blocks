@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:soul_sand_slab" },
+        "description": { "identifier": "mkt:soul_sand_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:soul_sand" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:soul_sand" }
         ],
-        "result": { "item": "bap:soul_sand_slab", "count": 2 },
+        "result": { "item": "mkt:soul_sand_slab", "count": 2 },
         "priority": 10
 	}
 }

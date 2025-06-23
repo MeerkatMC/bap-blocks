@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:packed_mud_slab" },
+        "description": { "identifier": "mkt:packed_mud_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:packed_mud" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:packed_mud" }
         ],
-        "result": { "item": "bap:packed_mud_slab", "count": 2 },
+        "result": { "item": "mkt:packed_mud_slab", "count": 2 },
         "priority": 10
 	}
 }

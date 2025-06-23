@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:stone_pillar",
+			"identifier": "mkt:stone_pillar",
 			"menu_category": {
 				"category": "items"
 			},

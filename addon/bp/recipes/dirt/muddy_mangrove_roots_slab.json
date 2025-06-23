@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:muddy_mangrove_roots_slab" },
+        "description": { "identifier": "mkt:muddy_mangrove_roots_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:muddy_mangrove_roots" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:muddy_mangrove_roots" }
         ],
-        "result": { "item": "bap:muddy_mangrove_roots_slab", "count": 2 },
+        "result": { "item": "mkt:muddy_mangrove_roots_slab", "count": 2 },
         "priority": 10
 	}
 }

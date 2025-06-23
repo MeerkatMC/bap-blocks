@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:concrete_slab_light_gray",
+			"identifier": "mkt:concrete_slab_light_gray",
 			"menu_category": {
 				"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"

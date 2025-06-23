@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:soul_soil_slab" },
+        "description": { "identifier": "mkt:soul_soil_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:soul_soil" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:soul_soil" }
         ],
-        "result": { "item": "bap:soul_soil_slab", "count": 2 },
+        "result": { "item": "mkt:soul_soil_slab", "count": 2 },
         "priority": 10
 	}
 }

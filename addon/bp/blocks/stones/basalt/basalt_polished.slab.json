@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
         "description": {
-            "identifier": "bap:basalt_polished_slab",
+            "identifier": "mkt:basalt_polished_slab",
             "menu_category": {
                 "category": "construction",
 				"group": "minecraft:itemGroup.name.slab"

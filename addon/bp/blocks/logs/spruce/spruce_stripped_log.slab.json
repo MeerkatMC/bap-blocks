@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:spruce_stripped_log_slab",
+			"identifier": "mkt:spruce_stripped_log_slab",
 			"menu_category": {
 				"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"

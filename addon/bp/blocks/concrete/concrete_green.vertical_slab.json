@@ -2,14 +2,14 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:concrete_green_vertical_slab",
+			"identifier": "mkt:concrete_green_vertical_slab",
 			"menu_category": {
 				"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"
 			},
 			"traits": {
 				"minecraft:placement_direction": {
-					"enabled_states": ["minecraft:facing_direction"]
+					"enabled_states": ["minecraft:cardinal_direction"]
 				}
 			}
 		},
@@ -63,7 +63,7 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.vertical_slab",
+			"minecraft:geometry": "geometry.mkt.vertical_slab",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "concrete_slab_green",
@@ -75,19 +75,19 @@
 		},
 		"permutations": [
 			{
-				"condition": "q.block_state('minecraft:facing_direction') == 'north' ",
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'north' ",
 				"components": { "minecraft:transformation": { "rotation": [0, 180, 0] } }
 			},
 			{
-				"condition": "q.block_state('minecraft:facing_direction') == 'south' ",
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'south' ",
 				"components": { "minecraft:transformation": { "rotation": [0, 0, 0] } }
 			},
 			{
-				"condition": "q.block_state('minecraft:facing_direction') == 'east' ",
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'east' ",
 				"components": { "minecraft:transformation": { "rotation": [0, 90, 0] } }
 			},
 			{
-				"condition": "q.block_state('minecraft:facing_direction') == 'west' ",
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'west' ",
 				"components": { "minecraft:transformation": { "rotation": [0, 270, 0] } }
 			}
 		]

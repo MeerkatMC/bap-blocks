@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:vertical_sandstone_slab" },
+        "description": { "identifier": "mkt:vertical_sandstone_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:sandstone" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:sandstone" }
         ],
-        "result": { "item": "bap:vertical_sandstone_slab", "count": 2 },
+        "result": { "item": "mkt:vertical_sandstone_slab", "count": 2 },
         "priority": 10
 	}
 }

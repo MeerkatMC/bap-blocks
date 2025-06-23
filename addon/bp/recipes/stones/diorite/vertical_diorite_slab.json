@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:vertical_diorite_slab" },
+        "description": { "identifier": "mkt:vertical_diorite_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:diorite" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:diorite" }
         ],
-        "result": { "item": "bap:vertical_diorite_slab", "count": 2 },
+        "result": { "item": "mkt:vertical_diorite_slab", "count": 2 },
         "priority": 10
 	}
 }

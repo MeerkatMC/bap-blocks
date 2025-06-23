@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:vertical_deepslate_polished_slab",
+			"identifier": "mkt:vertical_deepslate_polished_slab",
 			"menu_category": {
 				"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"
@@ -63,7 +63,7 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.vertical_slab",
+			"minecraft:geometry": "geometry.mkt.vertical_slab",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "vertical_deepslate_polished_slab",

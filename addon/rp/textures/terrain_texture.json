@@ -83,7 +83,7 @@
 			"textures": "textures/blocks/red_sandstone_smooth"
 		},
 		"vertical_deepslate_cobbled_slab": {
-			"textures": "textures/blocks/deepslate/deepslate_cobbled"
+			"textures": "textures/blocks/deepslate/cobbled_deepslate"
 		},
 		"vertical_deepslate_polished_slab": {
 			"textures": "textures/blocks/deepslate/polished_deepslate"

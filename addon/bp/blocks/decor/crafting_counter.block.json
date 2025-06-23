@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 		"description": {
-			"identifier": "bap:crafting_counter",
+			"identifier": "mkt:crafting_counter",
 			"menu_category": {
 				"category": "items"
 			},

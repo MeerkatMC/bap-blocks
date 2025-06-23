@@ -1,10 +1,10 @@
 {
     "format_version": "1.17",
     "minecraft:recipe_furnace": {
-        "description": { "identifier": "bap:furnace_calcite" },
+        "description": { "identifier": "mkt:furnace_calcite" },
         "tags": [ "furnace" ],
         "unlock": [ { "item": "minecraft:calcite" } ],
         "input": "minecraft:calcite",
-        "output": "bap:smooth_calcite"
+        "output": "mkt:smooth_calcite"
     }
 }

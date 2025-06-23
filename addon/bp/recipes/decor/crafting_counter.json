@@ -2,7 +2,7 @@
     "format_version": "1.20.10",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "bap:crafting_counter"
+            "identifier": "mkt:crafting_counter"
             },
         "tags": [ "crafting_counter", "crafting_table" ],
         "pattern": [
@@ -22,6 +22,6 @@
             }
         },
         "unlock": [ { "item": "crafting_table" } ],
-        "result": { "item": "bap:crafting_counter" }
+        "result": { "item": "mkt:crafting_counter" }
     }
 }

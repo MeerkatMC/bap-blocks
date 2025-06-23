@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:pale_oak_stripped_wood_slab" },
+        "description": { "identifier": "mkt:pale_oak_stripped_wood_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:stripped_pale_oak_wood" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:stripped_pale_oak_wood" }
         ],
-        "result": { "item": "bap:pale_oak_stripped_wood_slab", "count": 2 },
+        "result": { "item": "mkt:pale_oak_stripped_wood_slab", "count": 2 },
         "priority": 10
 	}
 }

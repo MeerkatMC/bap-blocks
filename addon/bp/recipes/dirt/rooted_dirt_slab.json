@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:rooted_dirt_slab" },
+        "description": { "identifier": "mkt:rooted_dirt_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:dirt_with_roots" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:dirt_with_roots" }
         ],
-        "result": { "item": "bap:rooted_dirt_slab", "count": 2 },
+        "result": { "item": "mkt:rooted_dirt_slab", "count": 2 },
         "priority": 10
 	}
 }

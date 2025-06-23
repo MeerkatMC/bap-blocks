@@ -1,10 +1,10 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Bycrest Addon Pack: Blocks BP",
-		"description": "Bycrest Addon Pack: Blocks (v1.0.8)",
-		"uuid": "1e6b6f48-5409-414f-8aff-8eb5493f3a5b",
-		"version": [1, 0, 8],
+		"name": "More Slabs Addon Pack: Blocks BP",
+		"description": "More Slabs Addon Pack: Blocks (v1.1.0)",
+		"uuid": "25c5a58a-ddc0-4b62-82be-644f927651e5",
+		"version": [1, 1, 0],
 		"min_engine_version": [1, 21, 70]
 	},
 	"metadata": {
@@ -13,15 +13,15 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 0, 8],
-			"uuid": "0f831364-4c0f-416f-bbbd-81dfbe149467",
+			"version": [1, 1, 0],
+			"uuid": "15e81f48-c4f1-4a6d-8627-4ce0e2aabb8d",
 			"type": "data"
 		}
 	],
 	"dependencies": [
 		{
-			"uuid": "e7676e1f-2e26-40d2-be4e-ce3711f118a8",
-			"version": [1, 0, 8]
+			"uuid": "451f09a4-80c9-418a-87a4-bcd8673c95b7",
+			"version": [1, 1, 0]
 		}
 	]
 }

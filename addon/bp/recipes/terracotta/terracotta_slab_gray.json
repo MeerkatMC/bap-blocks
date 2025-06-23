@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:terracotta_slab_gray" },
+        "description": { "identifier": "mkt:terracotta_slab_gray" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:gray_terracotta" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:gray_terracotta" }
         ],
-        "result": { "item": "bap:terracotta_slab_gray", "count": 2 },
+        "result": { "item": "mkt:terracotta_slab_gray", "count": 2 },
         "priority": 10
 	}
 }

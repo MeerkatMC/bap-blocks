@@ -1,7 +1,7 @@
 {
 	"format_version": "1.19.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:mangrove_stripped_wood_slab" },
+        "description": { "identifier": "mkt:mangrove_stripped_wood_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:stripped_mangrove_wood" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:stripped_mangrove_wood" }
         ],
-        "result": { "item": "bap:mangrove_stripped_wood_slab", "count": 2 },
+        "result": { "item": "mkt:mangrove_stripped_wood_slab", "count": 2 },
         "priority": 10
 	}
 }

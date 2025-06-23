@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:podzol_slab" },
+        "description": { "identifier": "mkt:podzol_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:podzol" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:podzol" }
         ],
-        "result": { "item": "bap:podzol_slab", "count": 2 },
+        "result": { "item": "mkt:podzol_slab", "count": 2 },
         "priority": 10
 	}
 }

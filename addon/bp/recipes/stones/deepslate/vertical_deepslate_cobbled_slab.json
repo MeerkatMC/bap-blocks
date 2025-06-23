@@ -1,7 +1,7 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:vertical_deepslate_cobbled_slab" },
+        "description": { "identifier": "mkt:vertical_deepslate_cobbled_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
             { "item": "minecraft:cobbled_deepslate" }
@@ -9,7 +9,7 @@
         "unlock": [
             { "item": "minecraft:cobbled_deepslate" }
         ],
-        "result": { "item": "bap:vertical_deepslate_cobbled_slab", "count": 2 },
+        "result": { "item": "mkt:vertical_deepslate_cobbled_slab", "count": 2 },
         "priority": 10
 	}
 }

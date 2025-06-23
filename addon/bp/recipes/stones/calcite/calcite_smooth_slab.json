@@ -1,15 +1,15 @@
 {
 	"format_version": "1.20.10",
 	"minecraft:recipe_shapeless": {
-        "description": { "identifier": "bap:smooth_calcite_slab" },
+        "description": { "identifier": "mkt:smooth_calcite_slab" },
         "tags": [ "stonecutter" ],
         "ingredients": [
-            { "item": "bap:smooth_calcite" }
+            { "item": "mkt:smooth_calcite" }
         ],
         "unlock": [
-            { "item": "bap:smooth_calcite" }
+            { "item": "mkt:smooth_calcite" }
         ],
-        "result": { "item": "bap:smooth_calcite_slab", "count": 2 },
+        "result": { "item": "mkt:smooth_calcite_slab", "count": 2 },
         "priority": 10
 	}
 }

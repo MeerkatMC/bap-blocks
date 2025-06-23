@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:block": {
 	  	"description": {
-			"identifier": "bap:terracotta_slab_magenta",
+			"identifier": "mkt:terracotta_slab_magenta",
 			"menu_category": {
 				"category": "construction",
 				"group": "minecraft:itemGroup.name.slab"
