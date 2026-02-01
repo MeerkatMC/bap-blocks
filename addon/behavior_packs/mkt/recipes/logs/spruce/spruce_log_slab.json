@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:spruce_log_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:spruce_log" }
+        ],
+        "unlock": [
+            { "item": "minecraft:spruce_log" }
+        ],
+        "result": { "item": "mkt:spruce_log_slab", "count": 2 },
+        "priority": 10
+	}
+}

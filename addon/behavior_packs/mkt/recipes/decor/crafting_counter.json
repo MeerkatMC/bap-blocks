@@ -1,0 +1,27 @@
+{
+    "format_version": "1.21.130",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "mkt:crafting_counter"
+            },
+        "tags": [ "crafting_counter", "crafting_table" ],
+        "pattern": [
+            "   ",
+            "BAB",
+            "L L"
+            ],
+        "key": {
+            "B": {
+                "tag": "minecraft:planks"
+            },
+            "A": {
+                "item": "minecraft:crafting_table"
+            },
+            "L": {
+                "item": "minecraft:stick"
+            }
+        },
+        "unlock": [ { "item": "crafting_table" } ],
+        "result": { "item": "mkt:crafting_counter" }
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:oak_stripped_wood_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stripped_oak_wood" }
+        ],
+        "unlock": [
+            { "item": "minecraft:stripped_oak_wood" }
+        ],
+        "result": { "item": "mkt:oak_stripped_wood_slab", "count": 2 },
+        "priority": 10
+	}
+}

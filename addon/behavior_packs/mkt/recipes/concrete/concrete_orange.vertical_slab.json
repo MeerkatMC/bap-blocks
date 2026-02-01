@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:concrete_orange_vertical_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:orange_concrete" }
+        ],
+        "unlock": [
+            { "item": "minecraft:orange_concrete" }
+        ],
+        "result": { "item": "mkt:concrete_orange_vertical_slab", "count": 2 },
+        "priority": 10
+	}
+}

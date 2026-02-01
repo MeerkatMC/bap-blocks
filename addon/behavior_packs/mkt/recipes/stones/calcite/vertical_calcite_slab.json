@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:vertical_calcite_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:calcite" }
+        ],
+        "unlock": [
+            { "item": "minecraft:calcite" }
+        ],
+        "result": { "item": "mkt:vertical_calcite_slab", "count": 2 },
+        "priority": 10
+	}
+}

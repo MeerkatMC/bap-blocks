@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:vertical_red_sandstone_smooth_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:smooth_red_sandstone" }
+        ],
+        "unlock": [
+            { "item": "minecraft:smooth_red_sandstone" }
+        ],
+        "result": { "item": "mkt:vertical_red_sandstone_smooth_slab", "count": 2 },
+        "priority": 10
+	}
+}

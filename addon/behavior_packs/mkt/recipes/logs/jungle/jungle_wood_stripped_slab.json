@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:jungle_stripped_wood_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stripped_jungle_wood" }
+        ],
+        "unlock": [
+            { "item": "minecraft:stripped_jungle_wood" }
+        ],
+        "result": { "item": "mkt:jungle_stripped_wood_slab", "count": 2 },
+        "priority": 10
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:gravel_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:gravel" }
+        ],
+        "unlock": [
+            { "item": "minecraft:gravel" }
+        ],
+        "result": { "item": "mkt:gravel_slab", "count": 2 },
+        "priority": 10
+	}
+}

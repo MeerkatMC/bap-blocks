@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:basalt_vertical_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:basalt" }
+        ],
+        "unlock": [
+            { "item": "minecraft:basalt" }
+        ],
+        "result": { "item": "mkt:basalt_vertical_slab", "count": 2 },
+        "priority": 10
+	}
+}

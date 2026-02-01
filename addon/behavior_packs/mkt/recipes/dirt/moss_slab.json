@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:moss_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:moss_block" }
+        ],
+        "unlock": [
+            { "item": "minecraft:moss_block" }
+        ],
+        "result": { "item": "mkt:moss_slab", "count": 2 },
+        "priority": 10
+	}
+}

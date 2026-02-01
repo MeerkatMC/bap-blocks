@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:acacia_stripped_log_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stripped_acacia_log" }
+        ],
+        "unlock": [
+            { "item": "minecraft:stripped_acacia_log" }
+        ],
+        "result": { "item": "mkt:acacia_stripped_log_slab", "count": 2 },
+        "priority": 10
+	}
+}

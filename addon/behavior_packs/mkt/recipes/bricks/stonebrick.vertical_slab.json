@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:vertical_stonebrick_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stone_bricks" }
+        ],
+        "unlock": [
+            { "item": "minecraft:stone_bricks" }
+        ],
+        "result": { "item": "mkt:vertical_stonebrick_slab", "count": 2 },
+        "priority": 10
+	}
+}

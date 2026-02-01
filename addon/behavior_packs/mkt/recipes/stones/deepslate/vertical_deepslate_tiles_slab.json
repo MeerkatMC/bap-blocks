@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:vertical_deepslate_tiles_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:deepslate_tiles" }
+        ],
+        "unlock": [
+            { "item": "minecraft:deepslate_tiles" }
+        ],
+        "result": { "item": "mkt:vertical_deepslate_tiles_slab", "count": 2 },
+        "priority": 10
+	}
+}

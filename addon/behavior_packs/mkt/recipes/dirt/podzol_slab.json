@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:podzol_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:podzol" }
+        ],
+        "unlock": [
+            { "item": "minecraft:podzol" }
+        ],
+        "result": { "item": "mkt:podzol_slab", "count": 2 },
+        "priority": 10
+	}
+}

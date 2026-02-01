@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "mkt:stone_pillar"
+		},
+		"tags": [ "stonecutter" ],
+		"ingredients": [
+			{
+				"item": "minecraft:stone", "data": 0
+			}
+		],
+        "unlock": [
+            { "item": "minecraft:stone", "data": 0 }
+        ],
+		"result": { "item": "mkt:stone_pillar" },
+        "priority": 10
+	}
+}

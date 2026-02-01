@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:terracotta_slab_lime" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:lime_terracotta" }
+        ],
+        "unlock": [
+            { "item": "minecraft:lime_terracotta" }
+        ],      
+        "result": { "item": "mkt:terracotta_slab_lime", "count": 2 },
+        "priority": 10
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:cherry_stripped_log_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:stripped_cherry_log" }
+        ],
+        "unlock": [
+            { "item": "minecraft:stripped_cherry_log" }
+        ],
+        "result": { "item": "mkt:cherry_stripped_log_slab", "count": 2 },
+        "priority": 10
+	}
+}

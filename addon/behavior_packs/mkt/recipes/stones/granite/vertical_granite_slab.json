@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:vertical_granite_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:granite" }
+        ],
+        "unlock": [
+            { "item": "minecraft:granite" }
+        ],
+        "result": { "item": "mkt:vertical_granite_slab", "count": 2 },
+        "priority": 10
+	}
+}

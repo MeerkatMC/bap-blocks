@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:vertical_andersite_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:andesite" }
+        ],
+        "unlock": [
+            { "item": "minecraft:andesite" }
+        ],
+        "result": { "item": "mkt:vertical_andersite_slab", "count": 2 },
+        "priority": 10
+	}
+}

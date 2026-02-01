@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:recipe_shapeless": {
+        "description": { "identifier": "mkt:birch_log_slab" },
+        "tags": [ "stonecutter" ],
+        "ingredients": [
+            { "item": "minecraft:birch_log" }
+        ],
+        "unlock": [
+            { "item": "minecraft:birch_log" }
+        ],
+        "result": { "item": "mkt:birch_log_slab", "count": 2 },
+        "priority": 10
+	}
+}

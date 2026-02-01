@@ -1,0 +1,53 @@
+{
+	"format_version": "1.21.130",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mkt:smooth_calcite",
+			"menu_category": {
+				"category": "construction",
+				"group": "minecraft:itemGroup.name.slab"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 0.7,
+				"item_specific_speeds": [
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:wooden_tier')" },
+						"destroy_speed": 0.65
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:stone_tier')" },
+						"destroy_speed": 0.6
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:iron_tier')" },
+						"destroy_speed": 0.5
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:golden_tier')" },
+						"destroy_speed": 0.6
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:diamond_tier')" },
+						"destroy_speed": 0.38
+					},
+					{
+						"item": { "tags": "q.all_tags('minecraft:is_pickaxe', 'minecraft:netherite_tier')" },
+						"destroy_speed": 0.31
+					}
+				]	
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 10
+			},
+			"minecraft:geometry": "minecraft:geometry.full_block",
+			"minecraft:material_instances": {
+				"*": { "texture": "smooth_calcite", "render_method": "opaque", "isotropic": false }
+			},
+			"minecraft:map_color": "#ffffff"
+		}
+	}
+}

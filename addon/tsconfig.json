@@ -18,7 +18,7 @@
     "noImplicitUseStrict": false,
     "outDir": "lib",
     "rootDir": ".",
-    "baseUrl": "bp/",
+    "baseUrl": "behavior_packs/",
     "listFiles": false,
     "noEmitHelpers": true,
     "skipLibCheck": true
